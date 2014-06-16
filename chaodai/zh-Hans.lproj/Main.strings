@@ -1,0 +1,66 @@
+
+/* Class = "IBUILabel"; text = "200000"; ObjectID = "2fI-ka-Kr3"; */
+"2fI-ka-Kr3.text" = "200000";
+
+/* Class = "IBUILabel"; text = "This is a derivative and the iOS version of the game 2048. In the very unlikely case that you don't know what it is, you can check it out .https://github.com/gabrielecirulli/2048."; ObjectID = "2mP-lF-7EF"; */
+"2mP-lF-7EF.text" = "This is a derivative and the iOS version of the game 2048. In the very unlikely case that you don't know what it is, you can check it out .https://github.com/gabrielecirulli/2048.";
+
+/* Class = "IBUINavigationItem"; title = "设置"; ObjectID = "4Ef-xt-w6t"; */
+"4Ef-xt-w6t.title" = "设置";
+
+/* Class = "IBUILabel"; text = "最高分"; ObjectID = "4Xw-5I-xFm"; */
+"4Xw-5I-xFm.text" = "最高分";
+
+/* Class = "IBUIButton"; normalTitle = "设置"; ObjectID = "8r1-lH-tEE"; */
+"8r1-lH-tEE.normalTitle" = "设置";
+
+"fpf-uy-XWN.normalTitle" = "排行榜";
+
+"Jrm-2o-ahm.normalTitle" = "移除广告";
+
+"mMF-LK-Iqu.normalTitle" = "恢复In-App";
+
+/* Class = "IBUILabel"; text = "朝代"; ObjectID = "C71-5n-Bsx"; */
+"C71-5n-Bsx.text" = "朝代";
+
+/* Class = "IBUILabel"; text = "You Win!"; ObjectID = "Pqq-SU-fYe"; */
+"Pqq-SU-fYe.text" = "You Win!";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "S6W-Te-Tgg"; */
+"S6W-Te-Tgg.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "重置"; ObjectID = "WSt-5b-bvD"; */
+"WSt-5b-bvD.normalTitle" = "重置";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Z9s-fD-tkj"; */
+"Z9s-fD-tkj.text" = "Label";
+
+/* Class = "IBUILabel"; text = "200000"; ObjectID = "dqu-Jy-DNX"; */
+"dqu-Jy-DNX.text" = "200000";
+
+/* Class = "IBUIButton"; normalTitle = "继续"; ObjectID = "gYR-fV-lVv"; */
+"gYR-fV-lVv.normalTitle" = "继续";
+
+/* Class = "IBUIBarButtonItem"; title = "确定"; ObjectID = "iZP-nW-4x6"; */
+"iZP-nW-4x6.title" = "确定";
+
+/* Class = "IBUILabel"; text = "Detail"; ObjectID = "jRb-aB-hlC"; */
+"jRb-aB-hlC.text" = "Detail";
+
+/* Class = "IBUILabel"; text = "得分"; ObjectID = "qRp-Wy-Hem"; */
+"qRp-Wy-Hem.text" = "得分";
+
+/* Class = "IBUIButton"; normalTitle = "开始"; ObjectID = "qXD-8y-R8y"; */
+"qXD-8y-R8y.normalTitle" = "开始";
+
+/* Class = "IBUILabel"; text = "数风流人物，还看今朝"; ObjectID = "r98-Zq-3Of"; */
+"r98-Zq-3Of.text" = "数风流人物，还看今朝";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "uGG-dZ-dj5"; */
+"uGG-dZ-dj5.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "v3Q-SA-Gjr"; */
+"v3Q-SA-Gjr.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "关于2048"; ObjectID = "zF5-Z2-jjH"; */
+"zF5-Z2-jjH.title" = "关于2048";
